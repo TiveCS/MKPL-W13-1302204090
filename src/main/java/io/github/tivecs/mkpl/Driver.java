@@ -1,4 +1,4 @@
-import src.main.java.Counter;
+package io.github.tivecs.mkpl;
 
 public class Driver {
 

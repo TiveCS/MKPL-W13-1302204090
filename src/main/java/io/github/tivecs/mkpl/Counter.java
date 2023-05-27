@@ -1,4 +1,4 @@
-package src.main.java;
+package io.github.tivecs.mkpl;
 
 public class Counter {
 

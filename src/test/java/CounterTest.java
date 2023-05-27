@@ -1,7 +1,6 @@
-package src.test.java;
-
 import static org.junit.Assert.*;
-import src.main.java.*;
+
+import io.github.tivecs.mkpl.Counter;
 import org.junit.Test;
 
 public class CounterTest {
